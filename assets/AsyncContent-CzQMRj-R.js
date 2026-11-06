@@ -1,0 +1,1 @@
+import{j as r,S as o,K as x}from"./index-DzxYBLGM.js";const j=({isLoading:t,error:e,onRetry:a,labels:s,children:n})=>t?r.jsx(o,{label:s.loading}):e?r.jsx(x,{message:e,retryLabel:s.retry,onRetry:a}):r.jsx(r.Fragment,{children:n});export{j as A};
